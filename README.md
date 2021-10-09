@@ -17,4 +17,4 @@ Lunar New Year CountDown
 
 ### URL WEBSITE
 
-[Click here] (https://ecstatic-ride-3947e7.netlify.app/)
+https://ecstatic-ride-3947e7.netlify.app/
